@@ -1,2 +1,3 @@
 # hello-world
-just one more repository
+Hi All!!!
+My name is Olesia. I'm learning js.
